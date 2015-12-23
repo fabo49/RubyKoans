@@ -33,6 +33,8 @@ class AboutNil < Neo::Koan
     # or
     #    obj == nil
     # Why?
+    #   R/ obj.nill? ya que es un objeto entonces cada uno debe de tener su
+    #   manera de compararlo
   end
 
 end

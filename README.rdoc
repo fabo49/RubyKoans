@@ -1,3 +1,7 @@
+= NOT READY, STILL WORKING ON IT
+
+I'm working on my implementation of *Neo Ruby Koans* right now, this version is not ready.
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.

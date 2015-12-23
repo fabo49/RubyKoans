@@ -1,6 +1,6 @@
 = NOT READY, STILL WORKING ON IT
 
-I'm working on my implementation of *Neo Ruby Koans* right now, this version is not ready.
+I'm working on my implementation of <em>Neo Ruby Koans</em> right now, this version is not ready.
 
 = Neo Ruby Koans
 

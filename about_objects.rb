@@ -47,5 +47,7 @@ class AboutObjects < Neo::Koan
 
     assert_equal true, obj != copy
     assert_equal true, obj.object_id != copy.object_id
+    # Al parecer el clone crea un objeto identico al original pero no los cuenta
+    # como si fueran el mismo.
   end
 end
